@@ -1,6 +1,3 @@
-
-
-
 #VARIABLES
 '''
 x = 5
