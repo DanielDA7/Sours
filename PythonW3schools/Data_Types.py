@@ -18,12 +18,12 @@ number = 7
 print("Результат:", number)
 
 #Мини задача 1. Числовые типы данных
-num1=input("Введите первое число: ")
-num2=input("Введите второе число: ")
+num1=int(input("Введите первое число: "))
+num2=int(input("Введите второе число: "))
+
 print("Сумма чисел:", int(num1) + int(num2))
 print("Разность чисел:", int(num1) - int(num2))
 print("Произведение чисел:", int(num1) * int(num2))
 print("Частное чисел:", int(num1) / int(num2))
 print("Целочисленное деление чисел:", int(num1) // int(num2))
 print("Остаток от деления чисел:", int(num1) % int(num2))
-
